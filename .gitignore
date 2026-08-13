@@ -26,14 +26,14 @@ logs/
 # Jupyter
 .ipynb_checkpoints/
 
-# Служебные папки и черновики инструментов (не для публикации)
+# Служебные папки и черновики инструментов
 .omo/
 .zcode/
 .playwright-mcp/
 page_snapshot.md
 results_snapshot.md
 
-# Внутренние документы разработки (не для публикации)
+# Внутренние документы разработки
 AGENTS.md
 LESSONS.md
 progress.md

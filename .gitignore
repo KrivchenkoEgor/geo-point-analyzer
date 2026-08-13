@@ -32,3 +32,9 @@ logs/
 .playwright-mcp/
 page_snapshot.md
 results_snapshot.md
+
+# Внутренние документы разработки (не для публикации)
+AGENTS.md
+LESSONS.md
+progress.md
+checkpoint.md
